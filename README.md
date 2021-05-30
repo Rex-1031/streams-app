@@ -79,3 +79,4 @@ Autentication that will be used
 
 ### Redux  
 
+#streams-app
